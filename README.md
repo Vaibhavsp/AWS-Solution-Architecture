@@ -1,7 +1,7 @@
 # AWS-Solution-Architecture
 
 <h2> Amazon Web Services: EC2 Instances </h2>
-![Alt](https://github.com/Vaibhavsp/AWS-Solution-Architecture/assets/100761402/eec486c7-94b4-4cae-8b7b-1bafd6a7e9c6)
+![Alt](C:\Users\Vaibhav\Pictures\Screenshots)
   
 <h3>1. Run an EC2 instance in SSH</h3>
 
