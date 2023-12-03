@@ -1,15 +1,14 @@
 # AWS-Solution-Architecture
 
-- <h3> Run an EC2 instance in SSH</h3>
+1. <h3> Run an EC2 instance in SSH</h3>
+
+<h5>Command to run EC2 Instance in SSH:</h5>
+
+ssh **Public IPV4 Address** -l **Username** -i **Key_Pair_Name**
 
 
-> <h5>Command to run EC2 Instance in SSH:</h5>
->
-> ssh **Public IPV4 Address** -l **Username** -i **Key_Pair_Name**
 
-
-
-- <h3>AWS SSH Socks5 Proxy</h3>
+2. <h3>AWS SSH Socks5 Proxy</h3>
 
 
 <h5>Command to run EC2 Instance in SSH for **Socks5 Proxy**:</h5>
