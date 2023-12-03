@@ -5,7 +5,9 @@
 - <h5>Command to run EC2 Instance in SSH:</h5>
 
 > ssh **"Public IPV4 Address"** -l **"Username"** -i **"Key_Pair_Name"**
-
+> 
+> Example:
+> ssh **"192.168.1.2"** -l **"ec2-user"** -i **"aws_key.pem"**
 
 
 <h3>2.</h3> <h3>AWS SSH Socks5 Proxy</h3>
