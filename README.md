@@ -1,6 +1,6 @@
 # AWS-Solution-Architecture
 
-<h3>1. </h3><h3> Run an EC2 instance in SSH</h3>
+<h3>1.</h3><h3> Run an EC2 instance in SSH</h3>
 
 - <h5>Command to run EC2 Instance in SSH:</h5>
 
