@@ -1,7 +1,7 @@
 # AWS-Solution-Architecture
 
 <h2> Amazon Web Services: EC2 Instances </h2>
-![Alt](C:\Users\Vaibhav\Pictures\Screenshots)
+![image](https://res.cloudinary.com/practicaldev/image/fetch/s--RNSPYqA4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pjaha11lm8yf8zudysr9.png)
   
 <h3>1. Run an EC2 instance in SSH</h3>
 
