@@ -1,7 +1,7 @@
 # AWS-Solution-Architecture
 
 
-<h3Run an **EC2 instance** in **SSH**</h3>
+<h3>Run an **EC2 instance** in **SSH**</h3>
 <br>
 
 <h5>Command to run EC2 Instance in SSH:</h5>
