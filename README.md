@@ -6,7 +6,7 @@
 
 > ssh **"Public IPV4 Address"** -l **"Username"** -i **"Key_Pair_Name"**
 > 
-> Example:
+> Example:<br>
 > ssh **"192.168.1.2"** -l **"ec2-user"** -i **"aws_key.pem"**
 
 
@@ -17,5 +17,5 @@
 
 > ssh **"Public_IPV4_Address"** -l **"Username"** -i **"Key_Pair_Name"** -N -D **"Port_Number"**
 >
-> Example:
+> Example:<br>
 > ssh **"192.168.1.2"** -l **"ec2-user"** -i **"aws_key.pem"** -N -D **"9090"**
