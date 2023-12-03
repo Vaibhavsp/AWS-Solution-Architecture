@@ -1,5 +1,7 @@
 # AWS-Solution-Architecture
 
+<h2> Amazon Web Services: EC2 Instances </h2>
+  
 <h3>1. Run an EC2 instance in SSH</h3>
 
 - <h5>Command to run EC2 Instance in SSH:</h5>
