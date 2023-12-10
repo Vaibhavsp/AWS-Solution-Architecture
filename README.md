@@ -25,8 +25,8 @@
 > ssh **"192.168.1.2"** -l **"ec2-user"** -i **"aws_key.pem"** -N -D **"9090"**
 
 After running this command:
-> 1. Open new terminal of windows
-> 2. Paste this in that rerminal:
+>1. Open new terminal of windows
+>2. Paste this in that rerminal:
 > 
 > "C:\Program Files\Google\Chrome\Application\chrome.exe" --user-data-dir="%USERPROFILE%\proxy-profile" --proxy-server="socks5://localhost:9090"
 > Note: First check whether you chrome browser is stored. In my case Google Chrome is stored in **"Program Files"** in your case it should be in **"Program Files (x86)"**
