@@ -1,4 +1,4 @@
-# AWS-Solution-Architecture
+# AWS-Solution-Architecture Socks 5 proxy and Global Proxy
 
 <h2> Amazon Web Services: EC2 Instances </h2>
   
